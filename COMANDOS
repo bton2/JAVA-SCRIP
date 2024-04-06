@@ -1,0 +1,12 @@
+alert('olá, mundo!')
+
+document.body.style.background= 'green'
+
+document.querySelector('img.lnXdpd').style.filter= ' grayscale(100%)'
+
+document.querySelector('img.lnXdpd').style.visibility = ' hidden'
+
+document.querySelector('span.bstn-hl-title').innerText = ' Meu Deus é meu refúgio!'
+
+
+
