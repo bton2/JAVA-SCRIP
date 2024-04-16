@@ -1,12 +1,24 @@
+Abrir o navegador clicar com o botão direito e clicar em inspection, depois seleciona Console e digite
+
+Mensagem na popup no navegador
 alert('olá, mundo!')
 
-document.body.style.background= 'green'
+Trocar a cor do corpo da página
 
+ document.body.style.background= 'green'
+
+ Mudar a cor da palavra Google
 document.querySelector('img.lnXdpd').style.filter= ' grayscale(100%)'
 
+Esconder o nome Google
 document.querySelector('img.lnXdpd').style.visibility = ' hidden'
 
+
+Alterar o texto
 document.querySelector('span.bstn-hl-title').innerText = ' Meu Deus é meu refúgio!'
+
+
+olsonaro explode com organização de sua chegada na PB</h1>
 
 
 

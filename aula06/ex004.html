@@ -18,7 +18,12 @@
         //document.write(`<h2>Your name has ${nome.length} letters.</h2>`)
         document.write(`Hello, <strong>${nome}</strong>! Your name has ${nome.length} letters. <br/>`)
         document.write(`You name in capital letters is ${nome.toUpperCase()} <br/>`)
-        document.write(`You name in lowercase is ${nome.toLowerCase()}`)
+        document.write(`You name in lowercase is ${nome.toLowerCase()} <br/>`)
+        var sobrenome = "Lima"
+        var nomeCompleto = nome.concat(" ", sobrenome)
+        document.write(`My full name is ${nomeCompleto}`)
+
+        //console.log(nomeCompleto)
         /*
             FORMATAÇÃO DE NÚMEROS
             var n1 = 1545.5
