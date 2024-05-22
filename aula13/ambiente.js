@@ -1,5 +1,15 @@
 var c = 1
-while (c <= 5) {
-    console.log('Tudo bem?')
+do {
+    console.log(`Step ${c}`)
     c++
-}
+}while (c <= 5)
+
+
+
+
+
+// var c = 1
+// while (c <= 5) {
+//     console.log(`Step ${c}`)
+//     c++
+// }
